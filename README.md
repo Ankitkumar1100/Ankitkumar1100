@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<div align="center" ><img width="2000" height="250" src="https://raw.githubusercontent.com/Ankitkumar1100/Ankitkumar1100/main/Ankit.jpg"></div>
 <h3 align="center">A passionate CSE Student from Delhi, India. !!...</h3>
 <img align ="right" alt="Devloping" width="370" height="360" src="https://simpleelabs.com/wp-content/uploads/2022/08/unnamed.gif">
 
