@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankitkumartech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitkumartech" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-5645b9273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-kumar-5645b9273/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFWlwWx7ScMKwAAAYw9YvZo5aB9mg7Z5xAp5UFRjLsStPUyQtt8LdmXvuTqBtJ4BqDWQc-pR83uWadDSQLWSvH0ZwPAj6S9vm1JhmfpPZmbu0EHIjAdFsGB6q14C3TBeej_Pfs=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fankit-kumar-5645b9273%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-kumar-5645b9273/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
