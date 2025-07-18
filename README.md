@@ -1,29 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<div align="center" ><img width="2000" height="250" src="https://raw.githubusercontent.com/Ankitkumar1100/Ankitkumar1100/main/Ankit.jpg"></div>
-<h3 align="center">A passionate CSE Student from Delhi, India. !!...</h3>
-<img align ="right" alt="Devloping" width="370" height="360" src="https://simpleelabs.com/wp-content/uploads/2022/08/unnamed.gif">
+<!-- Portfolio Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ankitkumar1100/Ankitkumar1100/main/Ankit.jpg" width="180" style="border-radius:50%" />
+</p>
+<h1 align="center">Hi 👋, I'm <span style="color:#4F8EF7">Ankit Kumar</span></h1>
+<p align="center"><b>🚀 Aspiring Software Engineer | CSE Student | Web Developer | Anime Enthusiast</b></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar1100&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar1100" /> </p>
+<!-- Animated Divider -->
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Portfolio!;Let's+build+something+amazing+%F0%9F%9A%80"/> </p>
 
-<p align="left"> <a href="https://twitter.com/ankitkumartech" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkumartech?logo=twitter&style=for-the-badge" alt="ankitkumartech" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Web Development**
+## 🧑‍💻 About Me
 
-- 💬 Ask me about **C , Javascript , HTML & CSS**
+- 🎓 CSE Student from Delhi, India
+- 🌱 Currently learning **Web Development**
+- 💬 Ask me about **C, JavaScript, HTML & CSS**
+- 📫 Reach me at **Ankit009090@gmail.com**
+- ⚡ Fun fact: <b>I like Anime a Lot!</b>
 
-- 📫 You can reach me via **Ankit009090@gmail.com**
+---
 
-- ⚡ Fun fact **I like Anime a Lot !!...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ankitkumartech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitkumartech" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFWlwWx7ScMKwAAAYw9YvZo5aB9mg7Z5xAp5UFRjLsStPUyQtt8LdmXvuTqBtJ4BqDWQc-pR83uWadDSQLWSvH0ZwPAj6S9vm1JhmfpPZmbu0EHIjAdFsGB6q14C3TBeej_Pfs=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fankit-kumar-5645b9273%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-kumar-5645b9273/" height="30" width="40" /></a>
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkumar1100&show_icons=true&locale=en&layout=compact" alt="ankitkumar1100" /></p>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar1100&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkumar1100&layout=compact&theme=radical" width="350"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkumar1100&show_icons=true&locale=en" alt="ankitkumar1100" /></p>
+---
+
+## 🚀 Projects
+
+| Project Name      | Description                       |
+|-------------------|-----------------------------------|
+| **Portfolio Site**| My personal portfolio website.    |
+| **Weather App**   | A simple weather forecast app.    |
+| **ToDo List**     | A productivity ToDo list app.     |
+
+*More projects coming soon...*
+
+---
+
+## 💡 Fun Fact
+
+> "The best way to predict the future is to invent it." – Alan Kay
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/ankitkumartech" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ankit-kumar-5645b9273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:Ankit009090@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://simpleelabs.com/wp-content/uploads/2022/08/unnamed.gif" width="300"/>
+</p>
