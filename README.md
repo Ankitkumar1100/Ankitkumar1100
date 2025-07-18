@@ -79,6 +79,66 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://simpleelabs.com/wp-content/uploads/2022/08/unnamed.gif" width="300"/>
+</p> -->
+
+<!-- Animated Contribution Snake -->
+
+---
+
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="image.jpg" width="350" alt="My Contributions"/>
+</p>
+
+<p align="center">
+  <!-- Animated contribution-related badges -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=400&lines=Total+Commits+this+year:+2025;Pull+Requests:+2;Issues+Opened:+0;Stars+Earned:+3"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Commits-2025-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-2-green?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Issues-0-yellow?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Stars-3-lightgrey?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitkumar1100&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</p>
+
+---
+
+## ✨ Inspiring Quotes
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F7C873&center=true&vCenter=true&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;Strive+for+progress%2C+not+perfection.;Dream+big.+Work+hard.+Stay+humble.;Keep+calm+and+code+on!"/>
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitkumar1100&style=for-the-badge&color=4F8EF7&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+---
+
+## 🤝 <span style="color:#4F8EF7">Let's Connect!</span>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Feel+free+to+reach+out+for+collaboration+or+just+to+say+hi!"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+  <br/>
+  <b>Thanks for visiting my profile!</b>
 </p>
