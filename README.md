@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Ankitkumar1100/Ankitkumar1100/main/Ankit.jpg" width="180" style="border-radius:50%" />
 </p>
 <h1 align="center">Hi 👋, I'm <span style="color:#4F8EF7">Ankit Kumar</span></h1>
-<p align="center"><b>🚀 Aspiring Software Engineer | CSE Student | Web Developer | Anime Enthusiast</b></p>
+<p align="center"><b>🚀 Aspiring Software Engineer | CSE Student | Web Developer | Tech Enthusiast</b></p>
 
 <!-- Animated Divider -->
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Portfolio!;Let's+build+something+amazing+%F0%9F%9A%80"/> </p>
@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 CSE Student from Delhi, India
-- 🌱 Currently learning **Web Development**
+- 🌱 Currently learning **Full Stack Web Development**
 - 💬 Ask me about **C, JavaScript, HTML & CSS**
 - 📫 Reach me at **Ankit009090@gmail.com**
 - ⚡ Fun fact: <b>I like Anime a Lot!</b>
@@ -51,7 +51,7 @@
 | Project Name      | Description                       |
 |-------------------|-----------------------------------|
 | **Portfolio Site**| My personal portfolio website.    |
-| **Weather App**   | A simple weather forecast app.    |
+| **Calc Master**   | A simple Marks Calculation app.    |
 | **ToDo List**     | A productivity ToDo list app.     |
 
 *More projects coming soon...*
